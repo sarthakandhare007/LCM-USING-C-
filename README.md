@@ -1,1 +1,3 @@
 # LCM-USING-C-
+
+logic 
